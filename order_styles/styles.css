@@ -1,0 +1,321 @@
+.forms {
+font: normal 14px Corbel, "Agency FB";
+background:#f8feee; color:#333; -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;  border-radius: 5px; border:1px solid #c4de95;
+}
+.forms_acccount {
+font: normal 13px Corbel, "Agency FB";
+background:#e6efee; color:#333; -moz-border-radius: 5px; padding:8px;
+ -webkit-border-radius: 5px;  border-radius: 5px; border:1px solid #c4de95;
+}
+.forms_acccount_p {
+font: normal 13px Corbel, "Agency FB";
+ color:#333; -moz-border-radius: 5px; padding:8px;
+ -webkit-border-radius: 5px;  border-radius: 5px; border:1px solid #c4de95;
+}
+.myaccount {
+background: linear-gradient(to bottom, #D6D6D6 0%, #C6C6C6 100%) repeat scroll 0% 0% transparent;
+font: normal 14px Corbel, "Agency FB";
+padding: 10px 10px;
+border:1px solid #c4de95;}
+#myaccount_links {
+background: linear-gradient(to bottom, #D6D6D6 0%, #C6C6C6 100%) repeat scroll 0% 0% transparent;
+font: normal 14px Corbel, "Agency FB";
+line-height:25px;
+width:170px;
+padding:5px 5px 8px 6px;
+margin:5px;
+border-top-left-radius:2em;
+border-bottom-left-radius:3em;
+box-shadow: 10px 10px 5px #8bc7cf;
+border:1px solid #c4de95;
+}
+#myaccount_links span {
+padding:10px 0 10px 30px;
+
+}
+#myaccount_links a{
+cursor:pointer;
+display: block;
+text-decoration: none;
+color: #002776;
+padding: 8px 4px;
+background: none;
+text-align: left;
+line-height: 14px;
+}
+#myaccount_links a:hover{
+text-decoration:none;
+color:#333;
+background:#777;
+}
+.main { }
+ .titlehdr {
+ font: normal  Corbel, "Agency FB";
+ color: #168f8f;
+ font-size:22px;
+ margin-left:10px;
+ border-bottom:1px dotted #c4de95;
+ }
+ .orderdetails {
+ font-size: 12px;
+ font: normal 14px Corbel, "Agency FB";
+ line-height:20px;
+ }
+ 
+ .topic_titles {
+font: normal 14px Corbel, "Agency FB";
+ color: #000;
+ border-bottom: 1px solid #c00;
+ }
+.tdmargin {
+	left: 20px;
+}
+
+.loginform {
+/*background-color: #efefff;*/
+font: normal 14px Corbel, "Agency FB";
+padding: 3px;
+border-radius: 6px;
+border: 2px solid #CAE4FF;
+}
+
+.loginform #txtbox {
+font: normal 18px Corbel, "Agency FB";
+color: #330033;
+border: 1px solid #000;
+border: 2px solid #CAE4FF;
+}
+.login {
+
+
+background: #E1E1E1;
+margin-top: 0;
+padding: 1em 2em;
+}
+
+.login #txtbox {
+height: 2em;
+padding: .35em .4em;
+border: 1px solid #A7A9AC;
+outline: 0;
+font-size: 1em;
+color: #6D6E71;
+}
+.sign_in {
+margin: 0 auto;
+background: url(../images/shadow.png) no-repeat 10px 0;
+width: 54px;
+float: left;
+height: 385px;
+padding: 1em 2em;
+}
+
+.sign_in #txtbox {
+color: #0074CC;
+font-size: 21px;
+font-family: "museo sans", sans-serif;
+font-weight: 500;
+border-radius: 4px;
+border: 1px solid #dfdfdf;
+border-top-color: #999;
+padding: 5px 10px;
+width: 280px;
+box-shadow: inset 0 5px 6px #f7f7f7;
+background: #fff;
+}
+.signin {
+background-color: #efefff;
+font: normal 14px Corbel, "Agency FB";
+padding: 3px;
+border: 1px solid #CAE4FF;
+}
+
+.orders_ {
+background-color: #e6efee;
+font: normal 14px Corbel, "Agency FB";
+padding: 3px;
+border: 1px solid #CAE4FF;
+}
+.style1 {
+	color: #33CCFF;
+font: normal 14px Corbel, "Agency FB";
+}
+.style2 {color: #33CCFF;
+font-size:14px;
+font-weight:bold;
+
+}
+.tabletxt{font: normal 14px Corbel, "Agency FB";
+}
+
+.loginformindex {
+background-color: #f2f6f2;
+font: normal 14px Corbel, "Agency FB";
+padding: 3px;
+border: 1px solid #CAE4FF;
+}
+
+.loginformindex #txtbox {
+font:  12px arial;
+color: #330033;
+}
+.manage_borders{
+	
+	}
+.manage_borders  div{	
+}
+.order_borders{
+	
+	}
+.manage_borders  tr.odd td, .order_borders  tr.odd td {
+}
+	
+.manage_borders a:hover, .order_borders a:hover{	
+color:red;
+cursor: pointer;
+}
+.order_borders2{
+	border: 1px dotted #eee;
+	border-top:none;
+	border-left:none;
+	}	
+.order_borders3{
+	border: 1px dotted #eee;
+	border-top:none;
+	border-right:none;
+	}	
+
+.read{
+	background: url(../images/read.jpg) no-repeat top left;
+	width: 250px;
+	height: 34px;
+	text-align: center;
+    font: normal 18px Corbel, "Agency FB";
+	color: #ffffff;
+	line-height: 34px;
+	font-weight: normal;
+	margin-top: 25px;
+	padding:5px 10px;
+	 -moz-border-radius: 3px;
+  -webkit-border-radius: 3px; border-radius: 3px;
+}
+.read a:hover{ text-decoration: none;}
+
+.theprice {
+	height: 65px;
+	width:140px;
+	background-image: url(../images/theorder.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-weight:bold;
+	display:inline-block; text-align:center;   
+}
+.order_now{ background-color:#333366; color:#fff; font-weight:bold; font-size:22px; height:50px; width: auto; padding:5px; -moz-border-radius: 4em;border-radius: 4em; cursor:pointer;}
+	 
+div#order_body { width: 750px; float:left;  border: 2px solid #eee; padding:5px;-moz-border-radius: 5px;  -webkit-border-radius: 5px;
+  border-radius: 5px;}
+div#order_body h1 { color:#000; border-bottom: 2px solid #91bb02; font-size:16px; padding:5px 0 6px 0;}
+div#order_body h2 { color:#5a6e0f; border-bottom: 1px solid #91bb02; font-size:14px; padding:5px 0 2px 0;}
+div#order_body h3 {color:#444; font-size:13px; padding:10px 0 0 5px;}
+div#order_body p { padding:12px; line-height:19px; color:#4a4a4a;}
+div#order_body ul { margin:5px 0 5px 15px;}
+div#order_body ul li  { list-style:none; padding:5px 0 3px 18px; background:url(img/licont.jpg) no-repeat left;}
+.ordered TD { border-bottom:1px dotted #ccc;}
+/* overlay ..*/
+.bgCover { background:#000; position:absolute; left:0; top:0; display:none; overflow:hidden; }
+.overlayBox {
+	border:5px solid #888;
+	position:absolute;
+	display:none;
+	width:700px;
+	height:300px;
+	background:#fff;
+}
+.overlayContent {
+	padding:10px;
+}
+.closeLink {
+	float:right;
+	color:blue;
+	font-size:16px;
+}
+.launchLink{ font-family:Georgia, "Times New Roman", Times, serif; font-style:italic; font-size:20px; text-align:center; border-bottom: 1px dotted #333; padding-bottom:5x; }
+<!-- collaps-->
+.c-content {display:none;}
+            
+            #demo-with-image .expander.expanded {
+                padding-left: 13px;
+                background-position: left center;
+                background-repeat: no-repeat;
+                background-image: url(../images/expanded.gif);
+            }
+        
+            #demo-with-image .expander.collapsed {
+                padding-left: 13px;
+                background-position: left center;
+                background-repeat: no-repeat;
+                background-image: url(../images/collapsed.gif);
+            }        
+.uploads {
+    font: normal 16px Corbel, "Agency FB";
+	color: #6CC;
+	font-weight: bold;
+}
+.titles_h {
+	font-size: 16px;
+	font-weight: bold;
+}
+.order_no{ /*font-size:12px;*/ font-weight:bold;}
+.example{font: normal 11px arial; color: red;}
+.site_td{border-right:1px dotted #eee; border-bottom:1px dotted #ccc; font-size:13px; font-family:Corbel; }
+.site_row {border-bottom:px dotted #eee; }
+.s_borders{border: 1px dotted #333; margin-bottom:10px;}
+.users_contacts{ background: #efefff; padding:10px; font-size:12px; float:left; margin:0 8px;}
+.users_bio{height:120px; overflow:scroll; border:1px dotted #333;  margin:0 5px 0 5px; padding:8px;}
+.users_discplines{ font-size:13px; padding:10px; float:left;  }
+.user_headings{ font-size:15px; font-weight:bolder; display:inline-block; border-bottom:1px dotted #efefff;  padding:2px 0; color: #006600; font-style:italic; margin-right:15px; }
+.users_bank_details{font-size:13px; font-weight:bold; margin-left:10px;}
+.bank_details{color:#003366; font-style:italic; font-size:14px;}
+.curr_symbol{ font-size:22px; font-weight:bold; padding:0 5px;}
+.order_title{font-size:20px; color:#039;  border-bottom:1px dotted #c4de95;
+ }
+.stat_totals{ font-weight:bold; font-style:italic; color:#33CCFF; width:auto; padding: 0 10px; float:left; } 
+.thetotals {color: #33CCFF; font-size:20px;}
+
+ a.tip2 {
+  position: relative;
+  text-decoration: none;
+}
+a.tip2 span {display: none;}
+a.tip2:hover span {
+  display: block;
+  position: absolute; 
+  padding: .5em;
+  content: attr(title);
+  min-width: 120px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  white-space: nowrap;
+  top: -32px;
+  background: rgba(0,0,0,.8);
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;    
+  color: #fff;
+  font-size: .86em;
+}
+a.tip2:hover span:after {
+  position: absolute;
+  display: block;
+  content: "";  
+  border-color: rgba(0,0,0,.8) transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  bottom: -16px;
+  left:1em;
+}

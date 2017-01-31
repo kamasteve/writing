@@ -1,0 +1,24 @@
+[16-Jan-2017 09:33:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jan-2017 09:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-done.php on line 113
+[16-Jan-2017 09:33:57 UTC] PHP Stack trace:
+[16-Jan-2017 09:33:57 UTC] PHP   1. {main}() /home/writers/public_html/wp-admin/index.php:0
+[16-Jan-2017 09:33:57 UTC] PHP   2. require_once() /home/writers/public_html/wp-admin/index.php:10
+[16-Jan-2017 09:33:57 UTC] PHP   3. do_action() /home/writers/public_html/wp-admin/admin.php:154
+[16-Jan-2017 09:33:57 UTC] PHP   4. WP_Hook->do_action() /home/writers/public_html/wp-includes/plugin.php:453
+[16-Jan-2017 09:33:57 UTC] PHP   5. WP_Hook->apply_filters() /home/writers/public_html/wp-includes/class-wp-hook.php:323
+[16-Jan-2017 09:33:57 UTC] PHP   6. call_user_func_array:{/home/writers/public_html/wp-includes/class-wp-hook.php:298}() /home/writers/public_html/wp-includes/class-wp-hook.php:298
+[16-Jan-2017 09:33:57 UTC] PHP   7. WPEM\Admin->submit() /home/writers/public_html/wp-includes/class-wp-hook.php:298
+[16-Jan-2017 09:33:57 UTC] PHP   8. WPEM\Done->__construct() /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-admin.php:486
+[16-Jan-2017 09:33:57 UTC] PHP   9. WPEM\Done->widget_contact() /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-done.php:35
+[16-Jan-2017 09:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-done.php on line 222
+[16-Jan-2017 09:33:57 UTC] PHP Stack trace:
+[16-Jan-2017 09:33:57 UTC] PHP   1. {main}() /home/writers/public_html/wp-admin/index.php:0
+[16-Jan-2017 09:33:57 UTC] PHP   2. require_once() /home/writers/public_html/wp-admin/index.php:10
+[16-Jan-2017 09:33:57 UTC] PHP   3. do_action() /home/writers/public_html/wp-admin/admin.php:154
+[16-Jan-2017 09:33:57 UTC] PHP   4. WP_Hook->do_action() /home/writers/public_html/wp-includes/plugin.php:453
+[16-Jan-2017 09:33:57 UTC] PHP   5. WP_Hook->apply_filters() /home/writers/public_html/wp-includes/class-wp-hook.php:323
+[16-Jan-2017 09:33:57 UTC] PHP   6. call_user_func_array:{/home/writers/public_html/wp-includes/class-wp-hook.php:298}() /home/writers/public_html/wp-includes/class-wp-hook.php:298
+[16-Jan-2017 09:33:57 UTC] PHP   7. WPEM\Admin->submit() /home/writers/public_html/wp-includes/class-wp-hook.php:298
+[16-Jan-2017 09:33:57 UTC] PHP   8. WPEM\Done->__construct() /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-admin.php:486
+[16-Jan-2017 09:33:57 UTC] PHP   9. WPEM\Done->widget_contact() /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-done.php:35
+[16-Jan-2017 09:33:57 UTC] PHP  10. WPEM\Done->refresh_widget_field_order() /home/writers/public_html/wp-content/plugins/wp-easy-mode/includes/class-done.php:128

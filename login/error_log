@@ -1,0 +1,231 @@
+[09-Jan-2017 11:52:56 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 11:52:56 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 11:52:56 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 11:53:03 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 11:53:03 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 11:53:18 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 11:53:18 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[09-Jan-2017 12:37:26 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 12:37:26 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 12:37:26 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 12:37:33 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 12:37:33 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 12:38:02 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 12:38:02 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[09-Jan-2017 13:11:16 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 13:11:16 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 13:11:16 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:15:39 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:15:39 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 14:15:39 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:16:20 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:16:20 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:16:42 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:16:42 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[09-Jan-2017 14:27:17 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:27:17 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 14:27:17 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:27:30 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:27:30 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:27:44 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:27:44 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:28:09 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:28:09 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:28:25 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:28:25 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 14:28:43 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 14:28:43 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 17:05:23 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 17:05:23 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 17:05:23 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 17:05:30 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 17:05:30 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[09-Jan-2017 17:07:12 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 17:07:12 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 17:07:12 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 17:07:37 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 17:07:37 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[09-Jan-2017 18:50:27 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 18:50:27 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 18:50:27 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 18:50:32 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 18:50:32 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[09-Jan-2017 19:00:48 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 19:00:48 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[09-Jan-2017 19:00:48 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[09-Jan-2017 19:01:14 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[09-Jan-2017 19:01:14 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 05:33:08 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 05:33:08 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 05:33:08 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 05:33:15 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 05:33:15 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 06:01:31 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:01:31 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 06:01:31 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 06:01:41 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:01:41 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 06:02:01 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:02:01 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 06:40:41 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:40:41 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 06:40:41 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 06:41:19 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:41:19 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 06:58:00 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:58:00 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 06:58:00 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 06:58:09 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 06:58:09 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 07:07:35 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 07:07:35 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 07:07:35 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 07:07:56 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 07:07:56 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 08:33:46 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 08:33:46 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 08:33:46 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 08:34:16 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 08:34:16 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 09:05:40 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:05:40 UTC] PHP Stack trace:
+[10-Jan-2017 09:05:40 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:05:40 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:05:40 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 09:05:40 UTC] PHP Stack trace:
+[10-Jan-2017 09:05:40 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:05:40 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:05:40 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 09:05:40 UTC] PHP Stack trace:
+[10-Jan-2017 09:05:40 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:06:19 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:06:19 UTC] PHP Stack trace:
+[10-Jan-2017 09:06:19 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:06:19 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:06:19 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 09:06:19 UTC] PHP Stack trace:
+[10-Jan-2017 09:06:19 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:06:19 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:42:14 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:42:14 UTC] PHP Stack trace:
+[10-Jan-2017 09:42:14 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:42:14 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:42:14 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 09:42:14 UTC] PHP Stack trace:
+[10-Jan-2017 09:42:14 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:42:14 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:42:14 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 09:42:14 UTC] PHP Stack trace:
+[10-Jan-2017 09:42:14 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:43:43 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:43:43 UTC] PHP Stack trace:
+[10-Jan-2017 09:43:43 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:43:43 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:43:43 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 09:43:43 UTC] PHP Stack trace:
+[10-Jan-2017 09:43:43 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:43:43 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:45:57 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:45:57 UTC] PHP Stack trace:
+[10-Jan-2017 09:45:57 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:45:57 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:45:57 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 09:45:57 UTC] PHP Stack trace:
+[10-Jan-2017 09:45:57 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:45:57 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:45:57 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 09:45:57 UTC] PHP Stack trace:
+[10-Jan-2017 09:45:57 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:46:26 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:46:26 UTC] PHP Stack trace:
+[10-Jan-2017 09:46:26 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:46:26 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:46:26 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 09:46:26 UTC] PHP Stack trace:
+[10-Jan-2017 09:46:26 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:46:26 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:55:52 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 09:55:52 UTC] PHP Stack trace:
+[10-Jan-2017 09:55:52 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:55:52 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 09:55:52 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[10-Jan-2017 09:55:52 UTC] PHP Stack trace:
+[10-Jan-2017 09:55:52 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 09:55:52 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[10-Jan-2017 09:55:52 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[10-Jan-2017 09:55:52 UTC] PHP Stack trace:
+[10-Jan-2017 09:55:52 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 10:03:13 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[10-Jan-2017 10:03:13 UTC] PHP Stack trace:
+[10-Jan-2017 10:03:13 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 10:03:13 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[10-Jan-2017 10:03:13 UTC] PHP Notice:  Undefined variable: writer in /home/writers/public_html/top_log_in_inner.php on line 50
+[10-Jan-2017 10:03:13 UTC] PHP Stack trace:
+[10-Jan-2017 10:03:13 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[10-Jan-2017 10:03:13 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[11-Jan-2017 19:18:42 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[11-Jan-2017 19:18:42 UTC] PHP Stack trace:
+[11-Jan-2017 19:18:42 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[11-Jan-2017 19:18:42 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[11-Jan-2017 19:18:42 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[11-Jan-2017 19:18:42 UTC] PHP Stack trace:
+[11-Jan-2017 19:18:42 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[11-Jan-2017 19:18:42 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[11-Jan-2017 19:18:42 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[11-Jan-2017 19:18:42 UTC] PHP Stack trace:
+[11-Jan-2017 19:18:42 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[11-Jan-2017 21:23:17 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[11-Jan-2017 21:23:17 UTC] PHP Stack trace:
+[11-Jan-2017 21:23:17 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[11-Jan-2017 21:23:17 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[11-Jan-2017 21:23:17 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[11-Jan-2017 21:23:17 UTC] PHP Stack trace:
+[11-Jan-2017 21:23:17 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[11-Jan-2017 21:23:17 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[11-Jan-2017 21:23:17 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[11-Jan-2017 21:23:17 UTC] PHP Stack trace:
+[11-Jan-2017 21:23:17 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[12-Jan-2017 03:59:57 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[12-Jan-2017 03:59:57 UTC] PHP Stack trace:
+[12-Jan-2017 03:59:57 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[12-Jan-2017 03:59:57 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[12-Jan-2017 03:59:57 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[12-Jan-2017 03:59:57 UTC] PHP Stack trace:
+[12-Jan-2017 03:59:57 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[12-Jan-2017 03:59:57 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[12-Jan-2017 03:59:57 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[12-Jan-2017 03:59:57 UTC] PHP Stack trace:
+[12-Jan-2017 03:59:57 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[12-Jan-2017 10:36:10 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[12-Jan-2017 10:36:10 UTC] PHP Stack trace:
+[12-Jan-2017 10:36:10 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[12-Jan-2017 10:36:10 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[12-Jan-2017 10:36:10 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[12-Jan-2017 10:36:10 UTC] PHP Stack trace:
+[12-Jan-2017 10:36:10 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[12-Jan-2017 10:36:10 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[12-Jan-2017 10:36:10 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[12-Jan-2017 10:36:10 UTC] PHP Stack trace:
+[12-Jan-2017 10:36:10 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[14-Jan-2017 19:15:42 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[14-Jan-2017 19:15:42 UTC] PHP Stack trace:
+[14-Jan-2017 19:15:42 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[14-Jan-2017 19:15:42 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[14-Jan-2017 19:15:42 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[14-Jan-2017 19:15:42 UTC] PHP Stack trace:
+[14-Jan-2017 19:15:42 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[14-Jan-2017 19:15:42 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[14-Jan-2017 19:15:42 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[14-Jan-2017 19:15:42 UTC] PHP Stack trace:
+[14-Jan-2017 19:15:42 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[15-Jan-2017 19:17:12 UTC] PHP Notice:  Undefined variable: host_this in /home/writers/public_html/client_db_connect.php on line 23
+[15-Jan-2017 19:17:12 UTC] PHP Stack trace:
+[15-Jan-2017 19:17:12 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[15-Jan-2017 19:17:12 UTC] PHP   2. include() /home/writers/public_html/login/index.php:2
+[15-Jan-2017 19:17:12 UTC] PHP Notice:  Undefined index: doLogin in /home/writers/public_html/top_log_in_inner.php on line 6
+[15-Jan-2017 19:17:12 UTC] PHP Stack trace:
+[15-Jan-2017 19:17:12 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0
+[15-Jan-2017 19:17:12 UTC] PHP   2. include() /home/writers/public_html/login/index.php:3
+[15-Jan-2017 19:17:12 UTC] PHP Notice:  Undefined variable: d_eml in /home/writers/public_html/login/index.php on line 44
+[15-Jan-2017 19:17:12 UTC] PHP Stack trace:
+[15-Jan-2017 19:17:12 UTC] PHP   1. {main}() /home/writers/public_html/login/index.php:0

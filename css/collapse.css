@@ -1,0 +1,100 @@
+.col {
+  float: left;
+  margin-left:100px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width:550px;
+}
+.c1 {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+.col  h3 {
+  
+}
+.col h3 a {
+  background: url("sprite.png") 15px 13px no-repeat;
+  display: block;
+  padding: 10px;
+  padding-left: 32px;
+  margin: 0;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.col h3.open a { background-position: 13px -25px; font-weight:normal;color: #999; }
+.col h3.open  {border:1px solid #fbcb09;background:#eff; color:#039;
+outline: none; width:350px; padding: 10px; }
+.col h3:hover{ background-position: 13px -25px; font-weight:normal;color: #999; }
+
+
+.col h3 + div { padding: 10px; border-left: 1px dotted #039;
+  border-right: 1px dotted #039; border-bottom: 1px dotted #039;}
+
+#collapsing { border-radius:3px; border:1px solid #039; }
+
+#collapsing h3 a {
+  background: url("sprite.png") 15px 13px no-repeat;
+  display: block;
+  padding: 8px;
+  padding-left: 32px;
+  margin: 0;
+  text-decoration: none;
+  font-weight: normal;
+}
+#collapsing h3:hover { width:350px;color:#999; padding: 10px;  }
+#collapsing h3.open  {border:1px solid #fbcb09;background:#eff; color:#039;
+outline: none; width:350px; padding: 10px; }
+#collapsing h3.open a { background-position: 13px -25px; font-weight: bold;color: #039;}
+#collapsing h3 + div { padding: 10px; }
+
+/* Pre hide sections with JavaScript on
+--- */
+#collapsing h3+div {
+  display: none;
+}
+
+/* CSS3 Animation example
+--- */
+#collapsing h3 + div {
+  height: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background: #f2f2f2;
+  display: block!important;
+  -webkit-transform: translateZ(0);
+  -webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	-ms-transition:all 0.3s ease;
+	transition: all 0.3s ease;
+}
+#collapsing .content {
+  padding: 10px;
+  float:left;
+}
+
+#collapsing h3.open + div {
+  height: auto;
+  background: #e9ecf1;
+  overflow:scroll;
+  height:auto;
+  margin:2px 20px;
+  
+}
+
+/* Event example
+--- */
+pre#event-log {
+  background: #fafacc;
+  padding: 10px;
+  display: block;
+}
+  h1 {
+    font-size: 28px;
+    text-shadow: 0px 0px 1px rgba(0,0,0,0.7);
+  }
+
+.link_to_order{float:right; padding:5px; border-radius:3px; background:#0099CC; color:#fff; margin-left:20px; font-weight:bold;}
+.link_to_order a{ text-decoration:none; color:#fff;}
+.link_to_order a:hover{ text-decoration:none; color:#fbcb09;}

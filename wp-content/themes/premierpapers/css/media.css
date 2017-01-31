@@ -1,0 +1,38 @@
+/* Large desktop */
+@media (min-width: 1200px) { ... }
+
+/* desktop */
+@media (max-width: 1090px) { 
+    .nav > div > ul > li a { display: block; padding: 10px 20px;}
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 1024px) { 
+    .nav > div > ul > li a { display: block; padding: 10px 18px;}
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { 
+    .nav > div > ul > li a { display: block; padding: 10px 7px;}
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+    .contact-no, .live-chat { width: 100%; display: block;}
+    .logo { text-align: center;}
+    .live-chat { position: relative;}
+    .live-chat img { position: absolute; right: 0; top: 0;}
+    .footer-bottom { text-align: center;}
+    .widget img { display: block; margin: auto;}
+    .widget .wpcf7-form select, input[type="text"], input[type="password"]  { max-width: 200px;}
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+    .widget .wpcf7-form select, input[type="text"], input[type="password"]  { max-width: 100%;}
+}
+
+/* chrome or webkit */
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+    
+}

@@ -1,0 +1,25 @@
+.avbutton{ float:right;}
+.checkboxes {float:left; width:180px; height:20px;}
+div.error { display: none; }
+input.error, textarea.error, select.error { border: 1px dotted #ff0000; background-color: #fffeee; }
+form.cmxform .gray * { color: gray; }
+.input_disabled { background-color: #ece9d8; }
+.headers{ font-family:Geneva, Arial, Helvetica, sans-serif; font-size:18px; color:#66CCFF; font-weight:bold; margin: 3px 0 5px 20px;}
+.input_checkbox, 
+.input_checkboxgroup, 
+.input_checkboxes, 
+.input_radio { border: 0; }
+.writers_form{ width:100%}
+.reqStar { color:#FF3366;}
+h4 { font: bold 110%/130% Arial, Helvetica, sans-serif; margin: 6px 0px 6px 0px; padding: 2px 0 0 0; color: #1D6C98;}
+.approved {
+font: normal 10px arial;
+color: green;
+}
+.order_borders{
+	border-top: 1px solid #ababab;
+	}
+.section_headings_academic{ padding:0 10px 2px 0px; font-size:20px; font-style:italic; font-weight:bold; float:left; color:#039;}
+.section_headings{ padding:0 10px 2px 10px; font-size:20px; font-style:italic; font-weight:bold; float:right; color:#1D391B;}
+.section_headings_academic, .section_headings{ margin:20px 0 20px 0;}
+.signup_headings{ font-size:24px; color:#036; border-bottom:1px dotted #eee;}	

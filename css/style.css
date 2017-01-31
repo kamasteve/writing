@@ -1,0 +1,86 @@
+TD	{ 
+	vertical-align:top; 
+}
+.fakechar {position:absolute;display:none;}
+
+/* order */
+.form select {width:160px;}
+.form input.fld {width:100%}
+.form textarea.fld {width:100%}
+
+
+
+
+div.hr{
+	height: 1px;
+	border-top: 1px solid #864415;
+	background-color: white;
+	margin: 35px 0;
+}
+
+
+
+/* Order form */
+.borderCornerTl{
+	position: absolute;
+	top: -1px;
+	left: -1px;
+}
+.borderCornerTr{
+	position: absolute;
+	top: -1px;
+	right: -1px;
+}
+.borderCornerBl{
+	position: absolute;
+	bottom: -1px;
+	left: -1px;
+}
+.borderCornerBr{
+	position: absolute;
+	bottom: -1px;
+	right: -1px;
+}
+.orderFolder>h3{
+	position: relative;
+	float: left;
+/*	padding: 10px 22px 0 22px;*/
+	padding: 10px 22px 0 0px;
+/*	background-image: url('../images/bg_orderfolder_h3.png');
+	background-repeat: repeat-x;
+	background-position: top;
+	border: 1px solid #8f8f8f;*/
+	height: 27px;
+	border-bottom: none;
+/*	top: -38px;
+	left: -1px;*/
+	width: 250px;
+	color: black;
+}
+.orderFolder{
+	margin-top: 20px;
+/*	border: 1px solid #7A3C10;*/
+/*	background-image: url('../images/bg_orderfolder.png');
+	background-repeat: repeat-x;
+	background-position: top;*/
+	position: relative;
+/*	background-color: white;*/
+	font-size: 14px;
+/*	font-weight: bold;*/
+	padding-bottom: 20px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	behavior: url('../js/border-radius.htc');
+}
+
+.masterordertable{background-color:#f2f2f2;
+border-radius: 6px;
+
+}
+.headers{ font-family:Geneva, Arial, Helvetica, sans-serif; font-size:18px; color:#66CCFF; font-weight:bold; margin: 3px 0 5px 20px;}
+.checkboxes {float:left; width:220px; height:20px;}
+.input_checkbox, 
+.input_checkboxes, 
+.input_radio { border: 0; }

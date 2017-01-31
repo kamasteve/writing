@@ -1,0 +1,65 @@
+		UL.tabNavigation {
+		    list-style: none;
+		    
+		}
+
+		UL.tabNavigation LI {
+		    display: inline;
+			background: url("../images/breadcrumbs.arrow.gif") no-repeat scroll right center transparent; 
+			padding:0px 5px;
+		}
+
+		UL.tabNavigation LI A {
+		    padding:3px;
+		    color: #039;
+		    text-decoration: none;
+			font: normal 16px/12px 'Dosis';
+			display: inline-block;
+		}
+
+		UL.tabNavigation LI A.selected,
+		UL.tabNavigation LI A:hover {
+		    color: #666;
+			text-decoration:underline;
+		}
+		
+	.no_of_files{
+	bottom: 20px;
+    cursor: pointer;
+    float: right;
+    left: 10px;
+    position: relative;
+    width: auto;
+	color: #fff;
+	font-weight:normal;
+	font-size:10px;
+	background:#168f9f;
+	padding:1px 3px;
+
+}
+		UL.tabNavigation LI A:focus {
+			outline: 0;
+		}
+
+		div.tabs > div {
+			padding: 5px;
+			margin-top: 20px;
+			border: 1px solid #eee;
+		}
+		
+		div.tabs > div h2 {
+			margin-top: 0;
+		}
+
+		#msg {
+		    background-color: #fff;
+		}
+
+		#a {
+		    background-color: #fff;
+		}
+
+		#b {
+		    background-color: #fff;
+		}
+		
